@@ -1,0 +1,23 @@
+patrick.harris@sbcglobal.net
+
+PLIV00826
+
+belle.bristow@gmail.com
+
+PLIV02909
+
+btnCheckout -> readBookChart -> checkoutBook
+
+As of 11/10/2016:
+"248"	"b1836148_3"	"PLIV00826"	"5/30/2014"	"6/29/2014"
+Only one book under PLIV00826 account when looked into account
+
+
+Question: 1) Should books that are unavailable for checkout be shown in search table?
+
+Patrick Harris, 13 Rye Lane, Livermore, CA 94550, patrick.harris@sbcglobal.net
+
+
+5714	b1539304_1	Harry Potter and the Deathly Hollows 		11/15/2016	Unavailable
+8580	b1318736_1	Harry Potter and the Half-blood Prince		11/15/2016	Unavailable
+4381	b1035111_3	Ender's Game					11/10/2016	Unavailable	
